@@ -19,10 +19,10 @@
 define('DB_NAME', 'radtelcom_db');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'radtel');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'mysql');
+define('DB_PASSWORD', 'radtel');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
